@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 AI Engineering Student (3/5) | Web & App Developer<br>🤖 Currently learning & exploring Machine Learning & Deep Learning<br>💻 Skilled in Python, Django, Flutter, SQL<br>🔍 Interested in AI, web & mobile development, and automation<br>🚴‍♂️ Tech, cars, and bikes lover
+🎓 AI Engineering Student (4/5) | Web & App Developer<br>🤖 Currently learning & exploring Machine Learning & Deep Learning<br>💻 Skilled in Python, Django, Flutter, SQL<br>🔍 Interested in AI, web & mobile development, and automation<br>🚴‍♂️ Tech, cars, and bikes lover
 
 
 ## 🌐 Socials:
